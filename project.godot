@@ -15,6 +15,10 @@ run/main_scene="uid://camlgx74mlna4"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[audio]
+
+buses/default_bus_layout="uid://bq7tu06oyqbef"
+
 [autoload]
 
 Events="*uid://dp7ruldhwh5ke"
@@ -24,6 +28,8 @@ MusicManager="*uid://c0m8bxeg6ekky"
 SettingsManager="*uid://boav6xpuq74ks"
 SoundBank="*uid://ce7kxbchc8ajm"
 ScreenTransition="*uid://rgy5yu73bm2h"
+KonamiManager="*uid://0ae1cms8lw8j"
+ExperimentalTouchScreen="*uid://br1ajwyix4rbj"
 
 [display]
 
